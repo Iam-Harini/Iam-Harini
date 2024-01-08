@@ -16,7 +16,7 @@
 </p>
 <h3 align="left">Sharing updates on:</h3>
   <p align="left">
-    <a href="www.linkedin.com/in/harini-selvam-7597b623a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harini selvam" height="30" width="40" /></a>
+    <a href="www.linkedin.com/in/harini-selvam-7597b623a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   </p>
   
 <h3 align="left">Languages :</h3>
